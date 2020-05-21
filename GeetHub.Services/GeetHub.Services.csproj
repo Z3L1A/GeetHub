@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GeetHub.Models\GeetHub.Domain.csproj" />
+    <ProjectReference Include="..\GeetHub.Domain\GeetHub.Domain.csproj" />
     <ProjectReference Include="..\GeetHub.Repositories\GeetHub.Repositories.csproj" />
   </ItemGroup>
 
